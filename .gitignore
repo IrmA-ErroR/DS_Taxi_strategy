@@ -1,2 +1,4 @@
-data/*
+.gitignore
 .venv
+
+data/dip_hw_x_taxi.csv
